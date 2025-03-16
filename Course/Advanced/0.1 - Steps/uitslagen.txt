@@ -1,0 +1,9 @@
+Ajax, FC Groningen, 2, 1
+Willem II, RKC Waalkwijk, 3, 0
+AZ Alkmaar, RBC Roosendaal, 1, 3
+De Graafschap, Vitesse, 1, 2
+FC Den Bosch, FC Utrecht, 0, 3
+Feyenoord, ADO Den Haag, 6, 3
+NAC Breda, FC Twente, 1, 1
+Roda JC Kerkrade, PSV Eindhoven, 0, 0
+SC Heerenveen, NEC Nijmegen, 2, 1
