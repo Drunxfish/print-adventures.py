@@ -1,6 +1,6 @@
 # 🐍 print-adventures.py 🐍
 
-## 🎯 Python School Assignments
+## 🎯 Python Course Assignments
 
 🚀 A collection of Python assignments from my course and some personal experiments.
 Originally hosted on GitLab, now moved to GitHub, and I'll continue to add more fun projects ;P
